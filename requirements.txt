@@ -1,0 +1,2 @@
+notebook==6.4.6
+jupyter_kernel_gateway==2.5.1
